@@ -1,3 +1,3 @@
 # Vagrant Project
 
-* ALX Software Engineering Crush Course *
+**ALX Software Engineering Crush Course**
